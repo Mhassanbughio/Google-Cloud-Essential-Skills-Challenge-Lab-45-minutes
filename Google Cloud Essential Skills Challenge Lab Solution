@@ -9,4 +9,5 @@ Goto Compute Engine -> VM Instannces -> Create Instance.
   Series : N1
   Boot Disk : Linux 9 (stretch)
 
-   
+   Tick : Allow HTTP Traffic
+          Allow HTTPS Traffic 
