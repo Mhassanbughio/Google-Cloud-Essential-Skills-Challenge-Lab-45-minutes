@@ -6,4 +6,5 @@ Goto Compute Engine -> VM Instannces -> Create Instance.
 
    Name : apache
   Zone : us-central1-a
+  Series : N1
    
