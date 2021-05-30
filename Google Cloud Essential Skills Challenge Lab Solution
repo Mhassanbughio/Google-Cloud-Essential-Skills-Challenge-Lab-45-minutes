@@ -24,3 +24,4 @@ SSH to 'apache' instance and run
 sudo su -
 apt-get update
 
+apt-get install apache2 -y
