@@ -26,3 +26,7 @@ apt-get update
 
 apt-get install apache2 -y
 service --status-all
+
+#############################################################################################################################
+Task 3 : Test your server
+
