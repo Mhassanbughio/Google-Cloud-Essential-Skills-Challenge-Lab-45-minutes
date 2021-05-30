@@ -22,4 +22,5 @@ Task 2 : Configure Apache2 Web Server in your instance
 SSH to 'apache' instance and run
 
 sudo su -
+apt-get update
 
