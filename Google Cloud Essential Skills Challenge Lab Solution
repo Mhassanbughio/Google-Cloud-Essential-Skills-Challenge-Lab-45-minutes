@@ -30,3 +30,4 @@ service --status-all
 #############################################################################################################################
 Task 3 : Test your server
 
+Click on External IP of apache instance.
